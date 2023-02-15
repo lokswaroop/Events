@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.event-image {
+  width: 100%;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  max-width: 460px;
+}
+.active {
+  border: 2px solid #2dd4bf;
+  border-radius: 10px;
+}
+.list {
+  list-style-type: none;
+}
+.color {
+  color: #ffffff;
+}

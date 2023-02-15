@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.flexRow {
+  display: flex;
+}
+.bg {
+  background-color: #475569;
+}
